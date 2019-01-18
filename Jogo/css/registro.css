@@ -1,0 +1,33 @@
+/* css personalizado */
+
+body {
+    background-image: url("https://cdn.hipwallpaper.com/i/68/36/u7bnZS.jpg");
+
+  /* Full height */
+  height: 100%;
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+    padding-top: 70px;   
+}
+
+.linhaCinza {
+    background: gray;
+    color: azure;
+}
+
+.linhaPersonalizada {
+    background: red;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.bg-color-padding p {
+    padding: 15px;   
+}
+.form-login-heading{
+    color: azure;
+}
